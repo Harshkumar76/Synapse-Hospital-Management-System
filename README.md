@@ -82,6 +82,17 @@ The admin role controls provider onboarding and operational oversight. Admins ca
 | Validation | validator |
 | Environment Configuration | dotenv |
 
+
+## Live Demo
+
+- **Patient Website:** https://synapse-hospital-management-system.vercel.app/
+- **Admin / Doctor Dashboard:** https://synapse-hospital-management-system-hazel.vercel.app/
+- **Backend API:** https://synapse-hospital-management-system-gamma.vercel.app/
+
+---
+
+
+
 ## Architecture
 
 The application follows a classic client-server structure, where each frontend communicates with the same Express API, which is responsible for validation, authentication, business logic, and database access.
